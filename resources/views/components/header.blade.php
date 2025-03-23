@@ -75,9 +75,11 @@
 
         <div class="collapse navbar-collapse" id="navbarNav">
             <div class="d-flex w-100 justify-content-between align-items-center">
-                <a class="navbar-brand d-none d-lg-block" href="#">
+                {{-- <a class="navbar-brand d-none d-lg-block" href="#">
                     <img src="{{ asset('28699644_christmas_2012_new_6457.jpg') }}" alt="Logo" width="100">  
-                </a>
+                </a> --}}
+
+                <h4>Logistic World</h4>
 
                 <!-- Left Menu -->
                 @guest
